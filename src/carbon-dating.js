@@ -8,3 +8,4 @@ module.exports = function dateSample(sample) {
   let years = Math.log(MODERN_ACTIVITY / parseFloat(sample)) / rate;
   return Math.ceil(years);
 };
+ 

@@ -13,4 +13,4 @@ module.exports = function createDreamTeam(members) {
   });
   teamName = teamName.sort().join('');
   return teamName;
-};
+}; 

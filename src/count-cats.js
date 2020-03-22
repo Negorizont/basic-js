@@ -6,6 +6,6 @@ module.exports = function countCats(matrix) {
         counter++;
       }
     });
-  }); 
+  });  
   return counter;
 };
